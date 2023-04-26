@@ -1,1 +1,0 @@
-iftd reports ego should shed a mph or two of speed when vehicles merge into our lane @~2 truck lengths.
